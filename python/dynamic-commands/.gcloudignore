@@ -1,6 +1,0 @@
-.gcloudignore
-**/*_test.py
-command_files/
-images/
-install.sh
-README.md
